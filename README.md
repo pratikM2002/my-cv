@@ -1,3 +1,2 @@
 # my-cv
-my recent cv for interviews 
-pratik
+Name : Mahida Pratik J.
